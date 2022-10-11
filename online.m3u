@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,1 Kanal HD
+https://zonehdtv.netlify.app/1KanalHD.m3u8
+#EXTINF:-1,Rossia 1 HD
+https://zonehdtv.netlify.app/RossiaHD.m3u8
+#EXTINF:-1,Match HD
+https://zonehdtv.netlify.app/Match.m3u8
+#EXTINF:-1,NTV HD
+https://zonehdtv.netlify.app/NTV.m3u8
+#EXTINF:-1,5 Kanal SD
+https://zonehdtv.netlify.app/5Kanal.m3u8
+#EXTINF:-1,Rossia 24 SD
+https://zonehdtv.netlify.app/Rossia24.m3u8
+#EXTINF:-1,Karusel SD
+https://zonehdtv.netlify.app/Karusel.m3u8
+#EXTINF:-1,TV Centr HD
+https://zonehdtv.netlify.app/TVC.m3u8
+#EXTINF:-1,Ren TV HD
+https://zonehdtv.netlify.app/RenTVHD.m3u8
+#EXTINF:-1,STS SD
+https://zonehdtv.netlify.app/STS.m3u8
+#EXTINF:-1,Domashni SD
+https://zonehdtv.netlify.app/Domashni.m3u8
+#EXTINF:-1,Friday HD
+https://zonehdtv.netlify.app/FridayHD.m3u8
+#EXTINF:-1,Mir HD
+https://zonehdtv.netlify.app/Mir.m3u8
+#EXTINF:-1,TNT HD
+https://zonehdtv.netlify.app/TNTHD.m3u8

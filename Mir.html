@@ -1,0 +1,24 @@
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <link href="https://unpkg.com/video.js@7.20.3/dist/video-js.css" rel="stylesheet" type="text/css">
+  <script src="https://unpkg.com/video.js@7.20.3/dist/video.js"></script>
+</head>
+<body>
+
+  <video-js id="vidHD" controls autoplay preload="auto" width="1080" height="720">
+    <source src="Mir.m3u8" type="application/x-mpegURL">
+  </video-js>
+
+  <script>
+    var vid = document.getElementById('vidHD');
+    var liveui = true;
+
+    if (videojs.browser.IS_ANDROID) {
+      liveui = false;
+    }
+    var playerHD = videojs(vid, {liveui: liveui});
+  </script>
+
+</body>
+</html>
